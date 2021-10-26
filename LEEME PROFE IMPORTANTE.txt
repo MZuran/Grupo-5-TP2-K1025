@@ -1,0 +1,5 @@
+Este programa se puede utilizar incluso sin un archivo de asegurados.bak o incidentes.bak dentro de la carpeta Programa.
+En el informe del word puede encontrar una explicación más detallada.
+Tuvimos problemas al principio con github porque al parecer NO estaba subiendo todos los archivos dentro de las carpetas aún cuando le decíamos que lo haga.
+Pensamos que este problema ya se encuentra solucionado pero en caso de que tenga cualquier complicación, profe por favor use el .rar.
+Ahí no debería haber ninguna posibilidad de que no se hubiera subido ningún archivo.
