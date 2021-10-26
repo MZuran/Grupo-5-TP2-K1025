@@ -1,0 +1,2 @@
+Este programa se puede utilizar incluso sin un archivo de asegurados.bak o incidentes.bak dentro de la carpeta Programa.
+En el informe del word puede encontrar una explicación más detallada.
